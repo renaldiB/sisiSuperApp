@@ -1,17 +1,3 @@
-// import React from 'react';
-// import { View } from 'react-native';
-// import TextComponent from '../Component/TextComponent';
-
-// const Statistic = () => {
-//   return(
-//     <View>
-//         <TextComponent text='Statistic' fontSize={20} fontWeight={'bold'}/>
-//     </View>
-//   );
-// };
-
-// export default Statistic;
-
 import React, {useState} from 'react';
 import {View, Text, TouchableOpacity, StyleSheet} from 'react-native';
 import StatistikAbsensi from './StatistikAbsensi';
